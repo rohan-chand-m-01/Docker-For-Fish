@@ -1,6 +1,5 @@
 <p align="center">
-  <a href="https://ibb.co/MDLDFzGS"><img src="https://i.ibb.co/kgFgNL9B/Docker-for-Fish-Logo-1-removebg-preview.png" alt="Docker for Fish logo" width="220"></a>
-  <a href="https://ibb.co/sJ3V1skt"><img src="https://i.ibb.co/6JsWtDVN/Whats-App-Image-2026-10-30-at-5-03-52-AM.jpg" alt="Docker for Fish prototype" width="420"></a>
+  <a href="https://ibb.co/MDLDFzGS"><img src="https://i.ibb.co/kgFgNL9B/Docker-for-Fish-Logo-1-removebg-preview.png" alt="Docker for Fish logo" width="210"></a>
 </p>
 
 <h1 align="center">Docker for Fish</h1>
@@ -38,6 +37,12 @@ Mangaluru is a strong place to test the idea because the fish landing and proces
 A local deployment revenue scenario can be sized from the district fleet count reported by NABARD: **3,294 registered boats** as of April 2019. If one kit were rented per boat for 300 operating days at the prototype ceiling of ₹15 per day, the theoretical annual kit rental ceiling would be about **₹1.48 crore**. A 5% initial deployment would represent about **165 kits and ₹7.4 lakh in annual rental revenue** at the same assumed utilization. This is a planning scenario, not a measured market forecast. The boat count is dated, the daily fee is unvalidated, and actual kit demand will depend on crate throughput, seasonality, uptime and willingness to pay. Validate these assumptions with current boat operators, auction agents, transporters and vendors before treating this as a business forecast. [NABARD, Dakshina Kannada Potential Linked Credit Plan](https://www.nabard.org/auth/writereaddata/tender/2910195542Dakshina%20Kannada.pdf)
 
 NABARD also records local infrastructure including the Mangaluru fishing harbour, 14 fish landing centres, ice plants, cold storage and fish markets. This gives a route based pilot multiple possible handoff points. [NABARD district fisheries profile](https://www.nabard.org/auth/writereaddata/tender/2910195542Dakshina%20Kannada.pdf)
+
+### Container prototype
+
+<p align="center">
+  <a href="https://ibb.co/sJ3V1skt"><img src="https://i.ibb.co/6JsWtDVN/Whats-App-Image-2026-10-30-at-5-03-52-AM.jpg" alt="Docker for Fish sensor equipped container prototype" width="680"></a>
+</p>
 
 ## Prototype status and limitations
 
